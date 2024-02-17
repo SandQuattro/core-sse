@@ -1,4 +1,5 @@
-### ![image](https://github.com/SandQuattro/sse-streaming/assets/31468131/ef9f7d18-f4c3-4359-959a-c12d82eb314e)
+### ![image](https://github.com/SandQuattro/sse-streaming/assets/31468131/efcc4f2f-2c41-462c-8b79-7afdb5ccc840)
+
 # Core SSE Demo API
 #### Version 1.0
 
